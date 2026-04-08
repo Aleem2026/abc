@@ -53,7 +53,7 @@
 
 <header>
     <h1>My Website</h1>
-    <p>Welcome to my first static site 🚀</p>
+    <p>Welcome to my super static site 🚀</p>
 </header>
 
 <nav>
