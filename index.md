@@ -75,7 +75,7 @@
 </div>
 
 <footer>
-    <p>© 2026  My first Website</p>
+    <p>© 2026  My first beuty Website</p>
 </footer>
 
 </body>
